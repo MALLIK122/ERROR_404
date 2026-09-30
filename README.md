@@ -15,7 +15,7 @@ A complete, lightweight, responsive cyber-security themed 404 landing page that 
 ## Google Form Link
 
 The button on the page redirects to the following Google Form URL:
-`https://docs.google.com/forms/d/e/1FAIpQLSfBz7yFd8d8V-ZCpoAYpjnxx_mpWjqA0e30T6Vq3Ye8LxySpQ/viewform?usp=publish-editor`
+`https://forms.gle/YTV8nUBSsggSzpGo7`
 
 This URL is located in `index.html` inside the `href` attribute of the `<a>` tag with the class `action-btn` (around line 43).
 
